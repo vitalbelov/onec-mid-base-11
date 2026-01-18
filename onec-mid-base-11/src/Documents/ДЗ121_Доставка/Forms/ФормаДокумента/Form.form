@@ -761,7 +761,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>DocumentObject.ДЗ121Доставка</types>
+      <types>DocumentObject.ДЗ121_Доставка</types>
     </valueType>
     <view>
       <common>true</common>

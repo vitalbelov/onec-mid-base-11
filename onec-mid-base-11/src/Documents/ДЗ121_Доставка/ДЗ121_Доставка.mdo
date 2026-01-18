@@ -7,13 +7,13 @@
     <listType typeId="b062073b-4e80-49cd-9725-7cf3d14e7711" valueTypeId="c31a604c-e191-4a37-ab1a-573d5206d86c"/>
     <managerType typeId="609e4a84-ba67-4505-9e6f-0c7550eacc84" valueTypeId="23e09041-4531-4efb-90e1-6ea64a0afc04"/>
   </producedTypes>
-  <name>ДЗ121Доставка</name>
+  <name>ДЗ121_Доставка</name>
   <synonym>
     <key>ru</key>
     <value>Доставка</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Document.ДЗ121Доставка.StandardAttribute.Number</inputByString>
+  <inputByString>Document.ДЗ121_Доставка.StandardAttribute.Number</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <basedOn>Document.РеализацияТоваровУслуг</basedOn>
   <createOnInput>Use</createOnInput>
@@ -32,8 +32,8 @@
   <numberAllowedLength>Variable</numberAllowedLength>
   <checkUnique>true</checkUnique>
   <autonumbering>true</autonumbering>
-  <defaultObjectForm>Document.ДЗ121Доставка.Form.ФормаДокумента</defaultObjectForm>
-  <defaultListForm>Document.ДЗ121Доставка.Form.ФормаСписка</defaultListForm>
+  <defaultObjectForm>Document.ДЗ121_Доставка.Form.ФормаДокумента</defaultObjectForm>
+  <defaultListForm>Document.ДЗ121_Доставка.Form.ФормаСписка</defaultListForm>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
   <attributes uuid="b17b9ef4-29d9-44e5-81ed-7a2036a83533">
